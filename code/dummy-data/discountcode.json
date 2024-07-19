@@ -1,0 +1,1802 @@
+[
+	{
+		"code": "V3F 5H7",
+		"created_at": "2023-11-11 06:20:59",
+		"updated_at": "2023-02-26 15:37:39",
+		"id": 924060119,
+		"price_rule_id": 899606677161,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "J2J 7B1",
+		"created_at": "2023-09-11 01:55:42",
+		"updated_at": "2022-06-18 09:51:22",
+		"id": 689182981,
+		"price_rule_id": 763496242570,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "D4Q 3F7",
+		"created_at": "2021-11-30 09:09:28",
+		"updated_at": "2023-11-28 06:48:18",
+		"id": 629869665,
+		"price_rule_id": 171772971400,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S5Z 5I2",
+		"created_at": "2022-07-22 02:53:25",
+		"updated_at": "2024-05-07 04:48:23",
+		"id": 575206745,
+		"price_rule_id": 951710260887,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "P8R 1X0",
+		"created_at": "2023-03-26 12:41:14",
+		"updated_at": "2021-12-21 07:28:25",
+		"id": 820015865,
+		"price_rule_id": 895503855553,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "I3G 1L5",
+		"created_at": "2022-11-08 09:54:38",
+		"updated_at": "2021-10-30 20:02:47",
+		"id": 414155696,
+		"price_rule_id": 603020538435,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B9H 9X2",
+		"created_at": "2023-10-28 21:51:12",
+		"updated_at": "2022-04-06 23:59:27",
+		"id": 630286922,
+		"price_rule_id": 427682099869,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E3V 3B9",
+		"created_at": "2023-09-14 06:20:23",
+		"updated_at": "2022-06-22 21:06:02",
+		"id": 430431115,
+		"price_rule_id": 847897370996,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "F4O 1L4",
+		"created_at": "2023-12-31 23:17:42",
+		"updated_at": "2022-02-27 11:09:31",
+		"id": 714529863,
+		"price_rule_id": 321547735775,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "V8L 6I4",
+		"created_at": "2022-02-21 14:10:22",
+		"updated_at": "2022-10-21 23:47:51",
+		"id": 604669680,
+		"price_rule_id": 489920775971,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L8R 2Q7",
+		"created_at": "2024-02-29 23:21:17",
+		"updated_at": "2023-10-28 10:12:24",
+		"id": 318496819,
+		"price_rule_id": 971980183555,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L2R 6M3",
+		"created_at": "2022-06-29 06:14:45",
+		"updated_at": "2023-11-07 22:08:00",
+		"id": 943901749,
+		"price_rule_id": 490276645903,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Q6I 5E7",
+		"created_at": "2022-08-03 11:03:00",
+		"updated_at": "2022-09-28 21:36:08",
+		"id": 863670609,
+		"price_rule_id": 144244070065,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "I6A 1V2",
+		"created_at": "2023-10-28 03:31:23",
+		"updated_at": "2023-02-02 00:11:48",
+		"id": 315192806,
+		"price_rule_id": 379985830894,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "F9X 7F4",
+		"created_at": "2022-09-27 13:33:10",
+		"updated_at": "2023-09-29 03:41:07",
+		"id": 676485189,
+		"price_rule_id": 342727726637,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Z9K 8N4",
+		"created_at": "2023-09-25 12:21:47",
+		"updated_at": "2022-09-19 13:18:29",
+		"id": 352959346,
+		"price_rule_id": 700491137826,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E0D 4F4",
+		"created_at": "2022-05-19 05:07:43",
+		"updated_at": "2022-06-11 07:34:00",
+		"id": 927569342,
+		"price_rule_id": 108774786559,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "H0V 9E1",
+		"created_at": "2022-08-20 04:15:43",
+		"updated_at": "2021-08-30 13:54:35",
+		"id": 489023429,
+		"price_rule_id": 138809540324,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "A6P 0N6",
+		"created_at": "2022-07-16 23:34:52",
+		"updated_at": "2022-06-02 14:44:19",
+		"id": 366951261,
+		"price_rule_id": 688818983383,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E4P 6N5",
+		"created_at": "2021-09-21 22:12:53",
+		"updated_at": "2023-07-21 21:26:15",
+		"id": 474852743,
+		"price_rule_id": 533929927175,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "C2F 5J1",
+		"created_at": "2023-08-11 03:25:28",
+		"updated_at": "2023-04-09 02:58:18",
+		"id": 628669457,
+		"price_rule_id": 368642468803,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "C4V 1U4",
+		"created_at": "2022-09-13 03:51:59",
+		"updated_at": "2023-11-22 04:27:53",
+		"id": 383235422,
+		"price_rule_id": 593546389283,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "F6I 0Y8",
+		"created_at": "2021-07-30 08:37:29",
+		"updated_at": "2022-08-04 07:11:57",
+		"id": 825036112,
+		"price_rule_id": 500661153172,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M4Y 7P4",
+		"created_at": "2023-11-21 15:46:21",
+		"updated_at": "2023-12-28 19:19:49",
+		"id": 458808679,
+		"price_rule_id": 691663613356,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "A1C 9O1",
+		"created_at": "2023-03-21 20:19:17",
+		"updated_at": "2022-08-12 10:55:13",
+		"id": 967555705,
+		"price_rule_id": 399260684161,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "G7M 5U7",
+		"created_at": "2023-04-09 20:12:16",
+		"updated_at": "2022-07-02 11:29:17",
+		"id": 265262580,
+		"price_rule_id": 543425563568,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Q9G 2E8",
+		"created_at": "2021-11-23 00:26:02",
+		"updated_at": "2023-04-11 12:23:02",
+		"id": 335824839,
+		"price_rule_id": 772095711081,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Q6S 4P2",
+		"created_at": "2023-09-22 17:59:33",
+		"updated_at": "2022-07-29 13:35:34",
+		"id": 582307409,
+		"price_rule_id": 301108427360,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "J8A 2C4",
+		"created_at": "2023-10-19 23:58:35",
+		"updated_at": "2022-03-19 03:57:02",
+		"id": 159243201,
+		"price_rule_id": 608908069632,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "K4K 4N5",
+		"created_at": "2024-01-12 06:02:44",
+		"updated_at": "2022-04-19 18:05:10",
+		"id": 878775192,
+		"price_rule_id": 707191916853,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "O4C 5B0",
+		"created_at": "2022-08-04 13:37:52",
+		"updated_at": "2021-12-03 10:59:30",
+		"id": 868278475,
+		"price_rule_id": 169666821666,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "V3Q 5C3",
+		"created_at": "2023-02-10 00:56:58",
+		"updated_at": "2024-02-18 12:20:11",
+		"id": 891068757,
+		"price_rule_id": 659739546844,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Q4K 4V8",
+		"created_at": "2023-05-21 14:03:55",
+		"updated_at": "2023-11-10 11:56:51",
+		"id": 265506168,
+		"price_rule_id": 571743415749,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "R1L 4P4",
+		"created_at": "2022-03-04 21:47:03",
+		"updated_at": "2024-06-24 00:20:21",
+		"id": 203035109,
+		"price_rule_id": 806230312831,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "X0R 0U0",
+		"created_at": "2023-05-14 10:34:37",
+		"updated_at": "2024-02-10 04:09:42",
+		"id": 838449921,
+		"price_rule_id": 536325410457,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "W1E 1M0",
+		"created_at": "2024-05-31 15:58:00",
+		"updated_at": "2022-07-05 11:56:37",
+		"id": 855452400,
+		"price_rule_id": 858700807618,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "X8M 1K0",
+		"created_at": "2024-04-24 15:11:17",
+		"updated_at": "2022-09-21 12:24:16",
+		"id": 998447317,
+		"price_rule_id": 753794092424,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E5M 1I7",
+		"created_at": "2022-03-18 14:31:58",
+		"updated_at": "2022-05-17 01:41:21",
+		"id": 398354589,
+		"price_rule_id": 983442196616,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "C7G 4O5",
+		"created_at": "2023-04-15 10:30:39",
+		"updated_at": "2021-10-06 23:44:31",
+		"id": 744632167,
+		"price_rule_id": 731465924610,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B5B 7V8",
+		"created_at": "2022-03-02 08:53:24",
+		"updated_at": "2021-12-24 23:31:32",
+		"id": 217587225,
+		"price_rule_id": 235212190653,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "R1J 2N5",
+		"created_at": "2021-08-29 01:41:11",
+		"updated_at": "2022-05-28 03:01:54",
+		"id": 846735182,
+		"price_rule_id": 281200629898,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E7X 8B9",
+		"created_at": "2023-05-31 07:05:05",
+		"updated_at": "2022-03-31 04:40:31",
+		"id": 640964509,
+		"price_rule_id": 248062734097,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "X3Y 7J2",
+		"created_at": "2022-05-22 09:13:01",
+		"updated_at": "2021-12-23 11:52:03",
+		"id": 603225112,
+		"price_rule_id": 444449849092,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "P4B 2D9",
+		"created_at": "2022-05-28 07:55:21",
+		"updated_at": "2022-08-11 12:17:15",
+		"id": 686932347,
+		"price_rule_id": 806935370653,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "F5W 7M7",
+		"created_at": "2022-01-19 05:16:15",
+		"updated_at": "2022-06-08 07:57:23",
+		"id": 463569840,
+		"price_rule_id": 758916612700,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "T5F 8C3",
+		"created_at": "2022-05-20 22:38:26",
+		"updated_at": "2023-06-28 05:52:19",
+		"id": 620992879,
+		"price_rule_id": 460736649014,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "N5U 6N0",
+		"created_at": "2022-02-05 07:31:57",
+		"updated_at": "2022-01-04 00:00:33",
+		"id": 615528848,
+		"price_rule_id": 454007615608,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "I5Y 3Z4",
+		"created_at": "2022-08-15 03:14:59",
+		"updated_at": "2022-08-22 07:07:54",
+		"id": 795368886,
+		"price_rule_id": 152483173724,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "T5V 1M2",
+		"created_at": "2023-03-27 08:23:01",
+		"updated_at": "2022-11-21 08:00:14",
+		"id": 391747002,
+		"price_rule_id": 522619079048,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S6B 4V5",
+		"created_at": "2022-12-29 16:03:00",
+		"updated_at": "2024-01-02 16:38:51",
+		"id": 930802840,
+		"price_rule_id": 582602282952,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M6J 6C3",
+		"created_at": "2022-11-02 05:09:24",
+		"updated_at": "2023-07-01 23:51:40",
+		"id": 109180917,
+		"price_rule_id": 333721853905,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B3I 4N5",
+		"created_at": "2021-09-06 07:26:59",
+		"updated_at": "2023-05-26 22:24:49",
+		"id": 142247991,
+		"price_rule_id": 733777144835,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "G0T 7M5",
+		"created_at": "2023-12-31 19:24:03",
+		"updated_at": "2022-01-20 00:20:22",
+		"id": 909562540,
+		"price_rule_id": 517961876059,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "K4J 5T1",
+		"created_at": "2022-10-21 23:35:05",
+		"updated_at": "2023-07-12 21:18:27",
+		"id": 304231680,
+		"price_rule_id": 166890684603,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B8V 6N7",
+		"created_at": "2023-08-16 00:35:14",
+		"updated_at": "2022-06-11 04:46:55",
+		"id": 487667894,
+		"price_rule_id": 193620321335,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B2T 0L5",
+		"created_at": "2021-07-30 13:50:03",
+		"updated_at": "2024-01-13 07:19:59",
+		"id": 332593097,
+		"price_rule_id": 560093080762,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S6Y 8W5",
+		"created_at": "2023-04-25 22:42:53",
+		"updated_at": "2024-01-21 12:20:40",
+		"id": 656163925,
+		"price_rule_id": 126669099955,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E2X 6C3",
+		"created_at": "2022-08-15 11:58:44",
+		"updated_at": "2022-04-03 09:25:25",
+		"id": 670683890,
+		"price_rule_id": 187848298029,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "N6R 5P7",
+		"created_at": "2021-08-30 00:46:20",
+		"updated_at": "2022-07-15 20:13:36",
+		"id": 149911336,
+		"price_rule_id": 258111437744,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "T4B 2I5",
+		"created_at": "2023-05-06 06:46:37",
+		"updated_at": "2022-05-26 09:43:43",
+		"id": 540289397,
+		"price_rule_id": 123755632237,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S6L 4A7",
+		"created_at": "2023-11-21 00:21:33",
+		"updated_at": "2022-12-28 04:15:26",
+		"id": 518581504,
+		"price_rule_id": 503602297289,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "O1X 2U7",
+		"created_at": "2024-04-03 10:13:58",
+		"updated_at": "2023-09-23 09:27:16",
+		"id": 153550312,
+		"price_rule_id": 525985444623,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "K3C 2J5",
+		"created_at": "2022-10-11 19:17:20",
+		"updated_at": "2022-12-27 10:59:06",
+		"id": 517272834,
+		"price_rule_id": 574147852003,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "W7H 3M3",
+		"created_at": "2023-11-03 19:51:34",
+		"updated_at": "2021-12-25 10:38:59",
+		"id": 562816857,
+		"price_rule_id": 167166089368,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B8D 5N9",
+		"created_at": "2022-03-15 23:34:18",
+		"updated_at": "2021-11-07 15:12:41",
+		"id": 249322708,
+		"price_rule_id": 235717717824,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "G7J 3J4",
+		"created_at": "2021-09-20 17:18:37",
+		"updated_at": "2023-08-26 16:02:10",
+		"id": 698446693,
+		"price_rule_id": 726060617113,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "G4E 7I3",
+		"created_at": "2021-12-21 20:32:49",
+		"updated_at": "2023-02-17 11:18:38",
+		"id": 754725139,
+		"price_rule_id": 795315687231,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L6Z 6E0",
+		"created_at": "2022-02-16 15:44:36",
+		"updated_at": "2023-11-23 06:21:58",
+		"id": 814525518,
+		"price_rule_id": 356900694777,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S3H 4Q1",
+		"created_at": "2024-02-01 20:55:40",
+		"updated_at": "2022-08-03 14:31:33",
+		"id": 148803343,
+		"price_rule_id": 676134826271,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "T8H 4N4",
+		"created_at": "2022-03-24 00:05:46",
+		"updated_at": "2024-06-06 12:12:58",
+		"id": 165457870,
+		"price_rule_id": 663517691259,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M2I 1L9",
+		"created_at": "2024-05-07 17:44:36",
+		"updated_at": "2022-08-16 23:55:03",
+		"id": 793835697,
+		"price_rule_id": 757867063764,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "T6S 5I8",
+		"created_at": "2022-01-31 10:59:28",
+		"updated_at": "2024-03-02 06:59:16",
+		"id": 425654360,
+		"price_rule_id": 280737454070,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "D6H 7E2",
+		"created_at": "2024-05-04 16:10:15",
+		"updated_at": "2023-12-14 03:17:45",
+		"id": 545730951,
+		"price_rule_id": 288101340930,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "P5C 4G6",
+		"created_at": "2022-05-10 22:44:11",
+		"updated_at": "2022-11-12 11:17:22",
+		"id": 101607721,
+		"price_rule_id": 635675617231,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "O4S 6H4",
+		"created_at": "2021-07-21 16:52:19",
+		"updated_at": "2023-03-11 19:35:36",
+		"id": 690276744,
+		"price_rule_id": 702770065328,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Y6T 2V6",
+		"created_at": "2022-09-19 08:32:25",
+		"updated_at": "2022-02-03 12:09:35",
+		"id": 653597094,
+		"price_rule_id": 798820646596,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "N1S 3X7",
+		"created_at": "2023-01-05 20:35:00",
+		"updated_at": "2023-10-16 04:21:04",
+		"id": 378981835,
+		"price_rule_id": 602722936677,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "W6Q 7K3",
+		"created_at": "2023-06-02 09:12:59",
+		"updated_at": "2022-12-07 14:11:51",
+		"id": 423848972,
+		"price_rule_id": 398875536824,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "T0H 3I3",
+		"created_at": "2023-03-06 17:18:44",
+		"updated_at": "2023-06-11 18:54:48",
+		"id": 521536087,
+		"price_rule_id": 793236289741,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "N3D 3J7",
+		"created_at": "2024-03-15 13:17:51",
+		"updated_at": "2023-04-09 11:13:10",
+		"id": 141844060,
+		"price_rule_id": 374773365077,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Y7B 8X8",
+		"created_at": "2022-10-14 06:48:25",
+		"updated_at": "2021-09-04 02:55:28",
+		"id": 652168378,
+		"price_rule_id": 270397003749,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "R2O 5G5",
+		"created_at": "2024-06-24 00:24:47",
+		"updated_at": "2024-02-29 17:09:49",
+		"id": 145883731,
+		"price_rule_id": 137458915322,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "U3G 1T6",
+		"created_at": "2023-11-13 10:09:35",
+		"updated_at": "2024-04-29 15:04:58",
+		"id": 734275046,
+		"price_rule_id": 196210405943,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E5H 5Z2",
+		"created_at": "2023-09-19 10:18:13",
+		"updated_at": "2023-05-20 15:09:23",
+		"id": 228384214,
+		"price_rule_id": 333778522508,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B9T 7B1",
+		"created_at": "2023-05-21 13:59:02",
+		"updated_at": "2021-11-14 00:51:58",
+		"id": 461325329,
+		"price_rule_id": 679936912112,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "O9L 5Q7",
+		"created_at": "2024-04-22 05:30:27",
+		"updated_at": "2021-12-24 18:09:35",
+		"id": 128819150,
+		"price_rule_id": 298634891467,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "X1K 1O5",
+		"created_at": "2023-05-16 09:08:19",
+		"updated_at": "2022-02-27 21:31:18",
+		"id": 183831914,
+		"price_rule_id": 586364491980,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "F2B 8U7",
+		"created_at": "2022-07-31 15:34:59",
+		"updated_at": "2022-02-07 04:04:35",
+		"id": 315234972,
+		"price_rule_id": 716542590068,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Y5U 2V6",
+		"created_at": "2022-08-04 13:59:23",
+		"updated_at": "2022-10-14 16:19:26",
+		"id": 924978722,
+		"price_rule_id": 385424266260,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "K5H 0H8",
+		"created_at": "2021-10-04 08:00:04",
+		"updated_at": "2023-09-13 00:52:31",
+		"id": 919550019,
+		"price_rule_id": 293103459547,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L4E 5J1",
+		"created_at": "2021-09-22 20:09:47",
+		"updated_at": "2024-02-14 15:44:22",
+		"id": 758401957,
+		"price_rule_id": 880852406259,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "G3J 3J6",
+		"created_at": "2023-01-31 11:56:21",
+		"updated_at": "2022-11-03 04:16:39",
+		"id": 256928751,
+		"price_rule_id": 201565946247,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M3F 8L4",
+		"created_at": "2022-11-13 23:17:55",
+		"updated_at": "2024-02-28 11:28:03",
+		"id": 597288712,
+		"price_rule_id": 280223370852,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "W0V 8M4",
+		"created_at": "2022-04-13 14:14:07",
+		"updated_at": "2023-09-01 04:35:12",
+		"id": 704470065,
+		"price_rule_id": 606312441421,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S2Y 5J1",
+		"created_at": "2022-11-25 22:44:29",
+		"updated_at": "2022-04-29 01:36:11",
+		"id": 961266431,
+		"price_rule_id": 945365183484,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Q7P 7B4",
+		"created_at": "2024-05-14 16:53:57",
+		"updated_at": "2024-02-24 22:35:23",
+		"id": 805646125,
+		"price_rule_id": 846892078291,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Q8L 1C1",
+		"created_at": "2021-09-11 05:39:56",
+		"updated_at": "2022-03-23 20:34:47",
+		"id": 975431888,
+		"price_rule_id": 356614771101,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Y1E 2I3",
+		"created_at": "2023-11-01 09:42:20",
+		"updated_at": "2023-11-05 13:04:11",
+		"id": 496865102,
+		"price_rule_id": 784049380194,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Y1H 3Y1",
+		"created_at": "2022-01-16 21:49:43",
+		"updated_at": "2022-11-02 12:33:33",
+		"id": 828602145,
+		"price_rule_id": 582164888321,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E4H 3R3",
+		"created_at": "2023-11-17 13:19:51",
+		"updated_at": "2023-12-11 12:50:27",
+		"id": 859700236,
+		"price_rule_id": 358330381984,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "W8T 3Y1",
+		"created_at": "2023-10-28 05:55:05",
+		"updated_at": "2024-07-04 14:19:56",
+		"id": 836882127,
+		"price_rule_id": 323858161062,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E0W 7R2",
+		"created_at": "2022-10-29 00:06:29",
+		"updated_at": "2024-06-10 17:02:02",
+		"id": 726246856,
+		"price_rule_id": 159457591501,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B4Y 0S6",
+		"created_at": "2023-02-17 21:18:03",
+		"updated_at": "2021-08-18 12:16:39",
+		"id": 141036103,
+		"price_rule_id": 756766085164,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "K5Y 6D6",
+		"created_at": "2021-08-21 17:49:01",
+		"updated_at": "2021-08-27 11:28:18",
+		"id": 726025606,
+		"price_rule_id": 919310221813,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "X6H 2V0",
+		"created_at": "2023-03-17 23:59:51",
+		"updated_at": "2023-03-12 22:05:46",
+		"id": 101229489,
+		"price_rule_id": 553002439036,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L1U 9O4",
+		"created_at": "2023-11-19 04:35:14",
+		"updated_at": "2023-12-02 09:10:04",
+		"id": 820776251,
+		"price_rule_id": 923635148116,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "N9T 2L2",
+		"created_at": "2022-10-05 03:42:42",
+		"updated_at": "2022-02-13 03:07:04",
+		"id": 514591085,
+		"price_rule_id": 874343634551,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B2D 5I2",
+		"created_at": "2021-09-19 08:19:02",
+		"updated_at": "2021-08-11 05:23:03",
+		"id": 194021607,
+		"price_rule_id": 571206363439,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "N7G 2J3",
+		"created_at": "2024-02-05 16:24:15",
+		"updated_at": "2021-09-24 15:31:26",
+		"id": 413112462,
+		"price_rule_id": 112936418430,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "T9C 3W3",
+		"created_at": "2021-11-11 21:24:42",
+		"updated_at": "2024-06-01 16:04:29",
+		"id": 796340880,
+		"price_rule_id": 836961147131,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "R1I 7J5",
+		"created_at": "2023-01-17 06:18:59",
+		"updated_at": "2023-02-15 17:08:18",
+		"id": 164193000,
+		"price_rule_id": 386620600223,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M0P 2V3",
+		"created_at": "2021-11-20 03:15:42",
+		"updated_at": "2022-05-15 06:31:22",
+		"id": 600310384,
+		"price_rule_id": 892793013371,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "C3Q 8X4",
+		"created_at": "2023-06-14 03:13:55",
+		"updated_at": "2022-05-23 17:39:06",
+		"id": 118795741,
+		"price_rule_id": 847692669963,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Z4E 1U8",
+		"created_at": "2024-02-23 00:26:06",
+		"updated_at": "2021-08-29 15:29:29",
+		"id": 352240000,
+		"price_rule_id": 924184040619,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L8D 8L5",
+		"created_at": "2021-12-03 02:15:17",
+		"updated_at": "2023-06-04 15:10:10",
+		"id": 841100916,
+		"price_rule_id": 979041447415,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "T8T 8Q4",
+		"created_at": "2023-02-18 01:40:52",
+		"updated_at": "2021-10-25 22:09:25",
+		"id": 591979948,
+		"price_rule_id": 284973363675,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "D5U 3N4",
+		"created_at": "2022-05-23 14:34:22",
+		"updated_at": "2023-12-07 08:17:33",
+		"id": 568370522,
+		"price_rule_id": 214682538163,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L3Z 3Y6",
+		"created_at": "2022-11-22 08:54:07",
+		"updated_at": "2023-12-11 04:03:17",
+		"id": 552472746,
+		"price_rule_id": 222956930784,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "O8T 9I3",
+		"created_at": "2021-12-05 13:25:49",
+		"updated_at": "2021-08-27 21:03:03",
+		"id": 188262210,
+		"price_rule_id": 717842220536,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "P4G 2N7",
+		"created_at": "2021-10-06 16:11:34",
+		"updated_at": "2021-09-25 03:01:57",
+		"id": 815065899,
+		"price_rule_id": 524557165354,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "J8F 8Q5",
+		"created_at": "2023-01-03 04:27:35",
+		"updated_at": "2023-05-31 19:39:55",
+		"id": 518141400,
+		"price_rule_id": 546310174573,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "O7M 4D2",
+		"created_at": "2024-02-27 20:03:25",
+		"updated_at": "2022-11-28 21:45:32",
+		"id": 529512540,
+		"price_rule_id": 610032655493,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "G4K 5Q8",
+		"created_at": "2021-10-07 13:29:42",
+		"updated_at": "2021-12-08 18:03:33",
+		"id": 321765726,
+		"price_rule_id": 169748686558,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L1C 6A1",
+		"created_at": "2023-08-02 23:41:15",
+		"updated_at": "2023-09-28 23:00:00",
+		"id": 481809704,
+		"price_rule_id": 962209985011,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L5X 7X8",
+		"created_at": "2023-06-18 08:29:19",
+		"updated_at": "2022-06-13 14:34:43",
+		"id": 268040143,
+		"price_rule_id": 844499952094,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "C9Y 8S1",
+		"created_at": "2021-11-03 05:11:48",
+		"updated_at": "2023-05-24 16:47:54",
+		"id": 304204447,
+		"price_rule_id": 329340668729,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "W2I 8B0",
+		"created_at": "2022-08-30 04:56:01",
+		"updated_at": "2023-04-07 02:12:51",
+		"id": 659557503,
+		"price_rule_id": 601270022202,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "O0S 4O4",
+		"created_at": "2023-10-17 10:34:05",
+		"updated_at": "2022-04-03 00:06:53",
+		"id": 729573618,
+		"price_rule_id": 148487681899,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Y6F 0M5",
+		"created_at": "2023-10-27 15:13:03",
+		"updated_at": "2022-07-23 18:21:34",
+		"id": 887403571,
+		"price_rule_id": 191568796739,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "J1Y 6J5",
+		"created_at": "2022-01-25 16:57:09",
+		"updated_at": "2021-07-28 14:40:53",
+		"id": 947314143,
+		"price_rule_id": 501161407808,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S8X 3O6",
+		"created_at": "2023-10-21 08:32:00",
+		"updated_at": "2023-03-30 21:10:29",
+		"id": 876883807,
+		"price_rule_id": 834407849256,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "O1I 2U9",
+		"created_at": "2022-08-10 03:59:34",
+		"updated_at": "2022-05-08 18:24:43",
+		"id": 386643856,
+		"price_rule_id": 655166860598,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "G1G 2H6",
+		"created_at": "2022-06-23 04:42:57",
+		"updated_at": "2024-03-24 03:30:46",
+		"id": 117932067,
+		"price_rule_id": 954988947110,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L6Y 1X3",
+		"created_at": "2021-10-11 22:31:07",
+		"updated_at": "2022-10-07 17:50:00",
+		"id": 726609625,
+		"price_rule_id": 584015290626,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E4P 1U3",
+		"created_at": "2024-06-27 03:15:53",
+		"updated_at": "2023-08-06 04:03:21",
+		"id": 180822127,
+		"price_rule_id": 478374419506,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "U3V 6F1",
+		"created_at": "2021-12-16 23:05:13",
+		"updated_at": "2022-03-06 13:26:31",
+		"id": 140679896,
+		"price_rule_id": 801871838524,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M3J 6S2",
+		"created_at": "2024-05-04 06:40:21",
+		"updated_at": "2021-08-02 02:39:47",
+		"id": 659581116,
+		"price_rule_id": 406458751802,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "N7R 2P0",
+		"created_at": "2022-04-24 18:39:33",
+		"updated_at": "2022-05-27 04:03:19",
+		"id": 764491148,
+		"price_rule_id": 645810291416,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "F2C 8R2",
+		"created_at": "2023-02-04 12:47:08",
+		"updated_at": "2022-03-15 14:58:50",
+		"id": 224495436,
+		"price_rule_id": 123564285574,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "X2L 4G0",
+		"created_at": "2024-06-29 19:21:15",
+		"updated_at": "2023-07-03 19:36:51",
+		"id": 319561106,
+		"price_rule_id": 324135248963,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "T9P 6K0",
+		"created_at": "2024-01-23 19:50:34",
+		"updated_at": "2023-02-16 17:41:38",
+		"id": 630470106,
+		"price_rule_id": 181037571205,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "D1W 5B6",
+		"created_at": "2022-09-11 05:44:36",
+		"updated_at": "2024-04-10 14:27:21",
+		"id": 935629731,
+		"price_rule_id": 222806512588,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "T6O 3C5",
+		"created_at": "2024-02-03 01:10:40",
+		"updated_at": "2023-05-20 03:48:17",
+		"id": 167109898,
+		"price_rule_id": 838803143380,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S4C 8B6",
+		"created_at": "2023-10-16 23:00:08",
+		"updated_at": "2024-01-24 07:06:27",
+		"id": 735643411,
+		"price_rule_id": 368795281543,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "D1F 6K2",
+		"created_at": "2021-10-15 21:13:29",
+		"updated_at": "2021-12-22 00:30:30",
+		"id": 146754032,
+		"price_rule_id": 479672914427,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S7C 1J5",
+		"created_at": "2022-08-11 19:28:53",
+		"updated_at": "2022-08-04 12:18:21",
+		"id": 128573549,
+		"price_rule_id": 814564021598,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M5D 2J6",
+		"created_at": "2022-10-02 20:34:37",
+		"updated_at": "2023-08-13 19:11:36",
+		"id": 214782649,
+		"price_rule_id": 813694387236,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "D0J 1W1",
+		"created_at": "2021-11-12 16:34:14",
+		"updated_at": "2021-11-07 20:49:45",
+		"id": 719933300,
+		"price_rule_id": 649081068153,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "K7J 8T3",
+		"created_at": "2021-09-24 22:13:55",
+		"updated_at": "2023-10-08 06:15:21",
+		"id": 877715326,
+		"price_rule_id": 968064368401,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "U1I 0B2",
+		"created_at": "2024-03-30 20:55:01",
+		"updated_at": "2021-08-05 23:34:40",
+		"id": 777526584,
+		"price_rule_id": 217515611487,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "J6K 6H9",
+		"created_at": "2023-11-07 20:45:45",
+		"updated_at": "2023-10-13 16:12:37",
+		"id": 788575242,
+		"price_rule_id": 312831616851,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E4J 1M5",
+		"created_at": "2024-07-15 00:33:18",
+		"updated_at": "2023-10-27 23:01:30",
+		"id": 103817238,
+		"price_rule_id": 128365117818,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L8G 1P7",
+		"created_at": "2024-06-03 07:50:04",
+		"updated_at": "2023-11-23 01:55:40",
+		"id": 644714819,
+		"price_rule_id": 368991700565,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L7D 6B4",
+		"created_at": "2023-05-25 22:18:28",
+		"updated_at": "2024-01-29 04:26:14",
+		"id": 169205046,
+		"price_rule_id": 622444332710,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L1R 5B5",
+		"created_at": "2024-01-15 12:49:50",
+		"updated_at": "2021-11-26 07:11:03",
+		"id": 979263342,
+		"price_rule_id": 627879798418,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S9W 8L8",
+		"created_at": "2021-10-06 14:11:16",
+		"updated_at": "2023-11-24 06:56:40",
+		"id": 938383837,
+		"price_rule_id": 936297081773,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "J4D 4G7",
+		"created_at": "2023-11-17 05:04:46",
+		"updated_at": "2023-08-01 02:55:44",
+		"id": 487315073,
+		"price_rule_id": 668941854176,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "A7J 2R5",
+		"created_at": "2021-10-20 08:40:30",
+		"updated_at": "2021-11-23 16:40:00",
+		"id": 428826753,
+		"price_rule_id": 929373379921,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "D8V 5T8",
+		"created_at": "2021-08-28 04:23:53",
+		"updated_at": "2021-09-24 08:48:06",
+		"id": 703581751,
+		"price_rule_id": 601123846781,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "N7F 1X1",
+		"created_at": "2023-03-15 23:55:05",
+		"updated_at": "2022-11-27 10:00:30",
+		"id": 399449839,
+		"price_rule_id": 611530714685,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M7F 4T0",
+		"created_at": "2023-06-13 05:04:12",
+		"updated_at": "2022-03-16 00:17:10",
+		"id": 895602793,
+		"price_rule_id": 621908685290,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M5K 5K3",
+		"created_at": "2022-06-18 08:15:52",
+		"updated_at": "2024-02-14 21:06:20",
+		"id": 748514009,
+		"price_rule_id": 742173897580,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B1L 6P7",
+		"created_at": "2021-12-17 04:11:56",
+		"updated_at": "2023-08-04 23:49:44",
+		"id": 992207320,
+		"price_rule_id": 471192746611,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "H5T 6Q3",
+		"created_at": "2022-07-12 21:06:50",
+		"updated_at": "2022-01-28 03:29:46",
+		"id": 661760615,
+		"price_rule_id": 369478888730,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B7L 2F3",
+		"created_at": "2023-04-20 15:49:20",
+		"updated_at": "2023-12-21 07:00:49",
+		"id": 342646099,
+		"price_rule_id": 576548113751,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "N5C 3P7",
+		"created_at": "2024-06-04 05:58:31",
+		"updated_at": "2023-05-24 09:45:30",
+		"id": 354422727,
+		"price_rule_id": 658187292900,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "X6X 7F7",
+		"created_at": "2022-11-04 01:47:04",
+		"updated_at": "2021-12-11 12:12:51",
+		"id": 816882840,
+		"price_rule_id": 602424036787,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "W7N 3I7",
+		"created_at": "2022-10-01 12:16:54",
+		"updated_at": "2024-02-03 23:36:19",
+		"id": 474687912,
+		"price_rule_id": 809400638333,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "D4X 8Y2",
+		"created_at": "2023-01-08 14:16:51",
+		"updated_at": "2024-01-01 23:19:18",
+		"id": 520377925,
+		"price_rule_id": 783277971833,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L2X 8K2",
+		"created_at": "2023-06-05 07:48:32",
+		"updated_at": "2022-12-15 02:54:21",
+		"id": 135910068,
+		"price_rule_id": 120510838892,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "R4F 1K2",
+		"created_at": "2021-07-31 23:18:49",
+		"updated_at": "2022-05-15 06:09:14",
+		"id": 254477072,
+		"price_rule_id": 825359480196,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "W3G 5A9",
+		"created_at": "2023-01-13 19:25:49",
+		"updated_at": "2022-02-08 05:46:33",
+		"id": 526826774,
+		"price_rule_id": 852529420505,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M8X 8Y9",
+		"created_at": "2023-09-14 14:21:12",
+		"updated_at": "2023-02-14 01:53:22",
+		"id": 212198067,
+		"price_rule_id": 421607406537,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "G5C 3V7",
+		"created_at": "2023-10-11 22:24:42",
+		"updated_at": "2021-08-14 05:36:19",
+		"id": 701430112,
+		"price_rule_id": 414397376193,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "C8J 1C4",
+		"created_at": "2023-12-27 11:07:50",
+		"updated_at": "2024-04-25 18:42:01",
+		"id": 728182468,
+		"price_rule_id": 633038638231,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "L4G 7P2",
+		"created_at": "2022-06-19 17:41:34",
+		"updated_at": "2023-07-11 07:02:13",
+		"id": 174571106,
+		"price_rule_id": 378048816384,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "E1M 1U4",
+		"created_at": "2023-06-12 22:32:29",
+		"updated_at": "2023-06-08 02:31:32",
+		"id": 884735271,
+		"price_rule_id": 125645199491,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "K4M 4D7",
+		"created_at": "2023-03-16 03:54:12",
+		"updated_at": "2024-07-12 15:35:13",
+		"id": 503465993,
+		"price_rule_id": 454911290455,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "S7U 0L2",
+		"created_at": "2022-11-06 06:09:36",
+		"updated_at": "2021-10-17 08:01:17",
+		"id": 913498673,
+		"price_rule_id": 444549296827,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B2P 9Z5",
+		"created_at": "2022-08-09 03:45:04",
+		"updated_at": "2022-04-09 15:25:27",
+		"id": 711009556,
+		"price_rule_id": 684944947794,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "V1K 5L3",
+		"created_at": "2022-01-20 07:14:15",
+		"updated_at": "2023-03-28 23:50:23",
+		"id": 489314773,
+		"price_rule_id": 791687291129,
+		"usage_count": 0,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "G1J 6N8",
+		"created_at": "2023-06-24 04:50:12",
+		"updated_at": "2022-07-08 15:47:55",
+		"id": 480467769,
+		"price_rule_id": 524690688327,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Q3U 0B5",
+		"created_at": "2022-10-11 06:50:52",
+		"updated_at": "2024-05-29 08:17:35",
+		"id": 206393264,
+		"price_rule_id": 354768781927,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "O6R 4I0",
+		"created_at": "2023-09-15 19:48:04",
+		"updated_at": "2024-01-26 06:28:15",
+		"id": 208023947,
+		"price_rule_id": 133265765483,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "D5O 1D2",
+		"created_at": "2022-01-14 00:10:22",
+		"updated_at": "2022-08-25 04:20:49",
+		"id": 232166797,
+		"price_rule_id": 919886408733,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "P8G 0F3",
+		"created_at": "2022-01-21 04:27:36",
+		"updated_at": "2023-12-02 16:33:11",
+		"id": 510445855,
+		"price_rule_id": 858438865798,
+		"usage_count": 5,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "W3A 7K7",
+		"created_at": "2024-02-07 15:14:58",
+		"updated_at": "2021-07-24 19:28:10",
+		"id": 801006762,
+		"price_rule_id": 222651348127,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Q7M 2R5",
+		"created_at": "2024-01-28 11:04:35",
+		"updated_at": "2022-01-12 04:03:00",
+		"id": 931148709,
+		"price_rule_id": 926806028147,
+		"usage_count": 8,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "I8C 8P6",
+		"created_at": "2024-01-02 09:48:12",
+		"updated_at": "2022-10-18 00:41:34",
+		"id": 675735365,
+		"price_rule_id": 336178389301,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "M6N 2P5",
+		"created_at": "2024-05-29 06:04:17",
+		"updated_at": "2023-02-04 15:08:09",
+		"id": 522984020,
+		"price_rule_id": 555552288018,
+		"usage_count": 7,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "I3L 1L7",
+		"created_at": "2022-06-11 04:36:21",
+		"updated_at": "2022-10-06 16:33:46",
+		"id": 290210475,
+		"price_rule_id": 103877790018,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "R2S 4Q8",
+		"created_at": "2022-06-28 12:24:38",
+		"updated_at": "2021-07-23 11:27:51",
+		"id": 233793841,
+		"price_rule_id": 681375603023,
+		"usage_count": 4,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "U3F 5M7",
+		"created_at": "2021-11-19 00:05:34",
+		"updated_at": "2021-11-30 03:37:32",
+		"id": 202551183,
+		"price_rule_id": 326662848060,
+		"usage_count": 10,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "V6F 4W7",
+		"created_at": "2023-12-01 11:50:46",
+		"updated_at": "2023-02-14 19:25:30",
+		"id": 133581118,
+		"price_rule_id": 698515347686,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Q3R 2B7",
+		"created_at": "2023-08-23 07:22:07",
+		"updated_at": "2022-12-29 21:30:41",
+		"id": 363829441,
+		"price_rule_id": 820144021051,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Y6A 0M2",
+		"created_at": "2023-09-27 15:26:02",
+		"updated_at": "2022-01-22 15:01:58",
+		"id": 593223808,
+		"price_rule_id": 178754351560,
+		"usage_count": 3,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "J4L 4Q3",
+		"created_at": "2023-09-29 15:13:04",
+		"updated_at": "2023-09-15 04:59:30",
+		"id": 504646652,
+		"price_rule_id": 640008244781,
+		"usage_count": 9,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "X6Z 8N1",
+		"created_at": "2021-12-26 17:32:27",
+		"updated_at": "2022-08-25 01:24:56",
+		"id": 274634923,
+		"price_rule_id": 642274584246,
+		"usage_count": 2,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "B8L 0K3",
+		"created_at": "2023-02-20 14:56:11",
+		"updated_at": "2024-05-02 02:12:14",
+		"id": 834445421,
+		"price_rule_id": 138448278895,
+		"usage_count": 6,
+		"errors": "must be unique. Please try a different code."
+	},
+	{
+		"code": "Y1O 8O2",
+		"created_at": "2021-09-25 06:48:33",
+		"updated_at": "2021-09-15 16:34:24",
+		"id": 527947723,
+		"price_rule_id": 360166510116,
+		"usage_count": 1,
+		"errors": "must be unique. Please try a different code."
+	}
+]
