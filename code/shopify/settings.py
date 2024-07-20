@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'customer',
+    "discount",
+    "metafield",
     'ninja_simple_jwt',
 ]
 
